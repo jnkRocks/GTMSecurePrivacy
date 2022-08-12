@@ -1,5 +1,5 @@
 homepage: "https://secureprivacy.ai"
 documentation: "https://support.secureprivacy.ai/support/home"
 versions:
-  - sha: c7f90a7bbd489f776a291b68644d46ca20811bfa
-    changeNotes: Added categories
+  - sha: e9485d57f81f61a6d942876cde5967337ed55a89
+    changeNotes: Fixed template.tpl file
